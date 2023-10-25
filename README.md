@@ -1,6 +1,6 @@
 # This project has another github codebase for the GenerativeAI Image generation app, FusionImage.
 
-https://github.com/ecryptoguru/fusionimage
+https://github.com/FusionwaveAI/fusionimage
 
 # FusionwaveNFT Marketplace
 
